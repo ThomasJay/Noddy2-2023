@@ -17,4 +17,11 @@ Node.js Express, MongoDB with Winston and Morgan for 2023 class update
    node server.js
 
 
+## Questions?
+
+If you have questions or comments, feel free to reach out to me
+
+tom@thomasjayconsulting.com
+
+
 
