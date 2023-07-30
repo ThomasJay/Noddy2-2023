@@ -24,4 +24,8 @@ If you have questions or comments, feel free to reach out to me
 tom@thomasjayconsulting.com
 
 
+Checkout the YouTube video of the class
+
+https://youtu.be/ZTe06LZ5JNE
+
 
